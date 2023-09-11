@@ -2,7 +2,7 @@ object AndroidCore {
     private const val APP_COMPAT = "1.6.1"
     private const val CORE_KTX = "1.9.0"
     private const val FRAGMENT_KTX = "1.6.0"
-    private const val LIFECYCLE_KTX = "2.6.1"
+    private const val LIFECYCLE_KTX = "2.6.2"
     private const val WEBKIT = "1.7.0"
 
     private val dependencies = listOf(
